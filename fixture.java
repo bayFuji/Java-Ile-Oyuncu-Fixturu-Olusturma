@@ -24,11 +24,6 @@ public class fixture {
 			oyuncular[l]=girdi.next();
 		}
 		
-		/* oyuncular[0] = "Eren";
-		oyuncular[1] = "Mert";
-		oyuncular[2] = "Yusuf";
-		oyuncular[3] = "Efe"; */
-		
 		int num=0;
 		String kullanilanlar = "";
 		
@@ -59,11 +54,6 @@ public class fixture {
 			}	
 			
 			System.out.println(" oyuncuları eşleşti.");
-		
-		
-		
-		
-		
 		
 	}
 
